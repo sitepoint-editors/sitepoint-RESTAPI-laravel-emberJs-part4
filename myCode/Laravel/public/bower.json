@@ -1,0 +1,18 @@
+{
+  "name": "public",
+  "version": "4.2.0",
+  "homepage": "https://github.com/laravel/laravel",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "foundation": "zurb/bower-foundation#~5.3.0",
+    "ember": "components/ember#~1.5.1",
+    "ember-data": "components/ember-data#~0.0.14"
+  }
+}

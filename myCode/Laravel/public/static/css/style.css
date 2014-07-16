@@ -1,0 +1,17 @@
+.custom-grid{
+    height: 300px;
+    position: relative;
+}
+
+.custom-grid span{
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+}
+
+.custom-header{
+    margin-top: 20px;
+    text-align: center;
+    color: white;
+    text-shadow: 0 0 5px black;
+}
